@@ -1,8 +1,8 @@
 # aceofspades
 Memory Cards Game </br>
 
-Projekt Semestralny 
-Kaszuba Krzysztof 
+Projekt Semestralny </br>
+Kaszuba Krzysztof </br>
 Krystian Janik 
 
 <b> Menu Ace Of Spades </b> </br>
