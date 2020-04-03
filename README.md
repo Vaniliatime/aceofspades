@@ -1,7 +1,7 @@
 # aceofspades
 Memory Cards Game </br>
 
-Projekt Semestralny </br>
+Projekt realizowany na przedmiocie "Programowanie w C#" </br>
 Kaszuba Krzysztof </br>
 
 
